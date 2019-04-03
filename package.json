@@ -1,6 +1,6 @@
 {
   "name": "react-native-template-rocketseat-advanced",
-  "version": "2.0.3",
+  "version": "2.0.4",
   "description": "Template para projetos em React Native, com Estrutura de Pastas customizada, Estilos Globais, ESLint + Prettier + Babel Plugin Root Import, React Navigation, Redux, Redux Saga, Reactotron e Axios configurados.",
   "keywords": [
     "react-native",
