@@ -28,7 +28,8 @@
     "react/jsx-one-expression-per-line": "off",
     "react-native/no-color-literals": "off",
     "react-native/sort-styles": "off",
-    "global-require": "off"
+    "global-require": "off",
+    "react-native/no-raw-text": "off"
   },
   "settings": {
     "import/resolver": {
