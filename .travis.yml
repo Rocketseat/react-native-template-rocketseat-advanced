@@ -1,0 +1,8 @@
+deploy:
+  provider: npm
+  email: $EMAIL
+  api_key:
+    secure: $API_KEY
+  on:
+    tags: true
+    repo: Rocketseat/react-native-template-rocketseat-advanced
