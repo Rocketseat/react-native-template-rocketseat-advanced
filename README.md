@@ -268,6 +268,11 @@ Contribuições são o que fazem a comunidade open source um lugar incrível par
 5. Faça o Push da Branch (`git push origin feature/FeatureIncrivel`)
 6. Abra um Pull Request
 
+Para testar o template de um caminho local, coloque o caminho absoluto junto com o prefixo `file://`
+```
+react-native init AwesomeContribution --template file:///Users/Dev/contributions/react-native-template-rocketseat-advanced
+```
+
 <!-- LICENSE -->
 
 ## Licença
